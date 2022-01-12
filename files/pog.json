@@ -1,0 +1,13 @@
+{
+  "headers": [
+    "User",
+    "Rank",
+    "KD"
+  ],
+  "rows": [
+    [
+      "Gamer521"
+      "Silver I"
+      "0.8"
+    ]
+  ]
